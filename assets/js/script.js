@@ -1,3 +1,5 @@
+//Wait fo the DOM 
+
 function runGame() {
 
 }
